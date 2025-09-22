@@ -1,5 +1,7 @@
 ## Olá! Eu sou Evandro Emanuel 
 
+![snake gif](https://github.com/EvandroEmanuel/EvandroEmanuel/blob/output/github-contribution-grid-snake.gif)
+
 ---
 💻 Full Stack Developer specialized in building scalable and efficient applications.  
 
